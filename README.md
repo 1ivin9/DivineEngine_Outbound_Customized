@@ -6,3 +6,4 @@ Special thanks to
 - [blackmatrix7 / ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
 - [Koolson / Qure](https://github.com/Koolson/Qure)
 - [KOP-XIAO / QuantumultX](https://github.com/KOP-XIAO/QuantumultX)
+- [Infatuation-Fei / rule](https://github.com/Infatuation-Fei/rule)
